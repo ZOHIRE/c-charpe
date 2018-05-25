@@ -10,6 +10,8 @@ namespace FirstProgram
     {
         static void Main(string[] args)
         {
+            //This is my ferst program
+
             Console.WriteLine("Hello World");
             Console.ReadKey();
         }
